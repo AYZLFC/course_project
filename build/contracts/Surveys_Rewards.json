@@ -1,0 +1,86 @@
+{
+  "contractName": "Surveys_Rewards",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.17+commit.8df45f5f\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/Surveys_Rewards.sol\":\"Surveys_Rewards\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/Surveys_Rewards.sol\":{\"keccak256\":\"0x89dd4f90181c9e31b2e77df8edd550f5741044ffbbaf91709e746d6acdd94675\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://1730fa8a502346f0c7bfafde4b86617bb293c6e0e277f1262489e2cac746c14a\",\"dweb:/ipfs/Qmb1QgHMTEssprC1SPzdga8q1GpTT7u9wVevpCXhkvoURk\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212209108e309387615b09cbd9127a68a9e98f2f4844e8258e7a4dac9f579537762b064736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212209108e309387615b09cbd9127a68a9e98f2f4844e8258e7a4dac9f579537762b064736f6c63430008110033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "70:33:1:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "70:33:1:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\r\npragma solidity >=0.4.22 <0.9.0;\r\n \r\ncontract Surveys_Rewards {\r\n  \r\n}\r\n",
+  "sourcePath": "C:\\Users\\Almog Yosef Zamir\\Desktop\\טכנולוגיות אינטרנט מתקדמות\\Codes Folder\\course_project\\contracts\\Surveys_Rewards.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/Surveys_Rewards.sol",
+    "exportedSymbols": {
+      "Surveys_Rewards": [
+        35
+      ]
+    },
+    "id": 36,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 34,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".22",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:32:1"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "Surveys_Rewards",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 35,
+        "linearizedBaseContracts": [
+          35
+        ],
+        "name": "Surveys_Rewards",
+        "nameLocation": "79:15:1",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 36,
+        "src": "70:33:1",
+        "usedErrors": []
+      }
+    ],
+    "src": "33:72:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.17+commit.8df45f5f.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x46A142cA264C8a6E060288b488e66e64A4ABa229",
+      "transactionHash": "0xd10e1281dc688393ba59b79ff07f1bd80cd4b19fe1cb9d6e065f32eaf6dd8c22"
+    }
+  },
+  "schemaVersion": "3.4.11",
+  "updatedAt": "2023-02-21T14:35:31.262Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
